@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from '../logo.svg';
 import './App.css';
 
 function App() {
@@ -16,6 +16,8 @@ function App() {
           rel="noopener noreferrer"
         >
           Learn React
+          <br></br>
+          Hola Mundo esto es una app en react.
         </a>
       </header>
     </div>
